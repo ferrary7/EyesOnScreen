@@ -55,32 +55,32 @@ li{
   width: 5em;
 }
 .pinky{ 
-  background-color: crimson;
-  border: 2px solid crimson;
+  background-color: #6C4AB6;
+  border: 2px solid #6C4AB6;
 }
 .pinky.selected{
-  color: crimson;
+  color: #6C4AB6;
 }
 .ring{ 
-  background-color: coral;
-  border: 2px solid coral;
+  background-color: #8D72E1;
+  border: 2px solid #8D72E1;
 }
 .ring.selected{
-  color: coral;
+  color: #8D72E1;
 }
 .middle{ 
-  background-color: darkorange;
-  border: 2px solid darkorange;
+  background-color: #8D9EFF;
+  border: 2px solid #8D9EFF;
 }
 .middle.selected{
-  color: darkorange;
+  color: #8D9EFF;
 }
 .pointer1st{ 
-  background-color: gold;
-  border: 2px solid gold;
+  background-color: #B9E0FF;
+  border: 2px solid #B9E0FF;
 }
 .pointer1st.selected{
-  color: gold;
+  color: #B9E0FF;
 } 
 .pointer2nd{ 
   background-color: khaki;
